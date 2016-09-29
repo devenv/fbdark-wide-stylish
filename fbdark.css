@@ -1747,6 +1747,12 @@ textarea, .uiOverlayFooter { background: none !important; color: white !importan
 ._4ar- ._3t54 {
     margin-right: 5px;
 }
+._4ar- ._3emk:nth-child(1) {
+    margin-left: 0px !important;
+}
+._4ar- ._3t54 {
+    margin-right: 5px;
+}
 
 
 /* Remove games from left side bar */
